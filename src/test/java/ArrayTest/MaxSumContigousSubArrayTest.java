@@ -1,4 +1,5 @@
-package Arrays;
+package ArrayTest;
+import Array.MaxSumContigousSubArray;
 import org.junit.Test;
 import static org.junit.Assert.*;
 

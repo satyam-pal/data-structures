@@ -1,5 +1,6 @@
-package Arrays;
+package ArrayTest;
 
+import Array.ContinuousSumQuery;
 import org.junit.Assert;
 import org.junit.Test;
 
